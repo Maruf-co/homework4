@@ -41,11 +41,11 @@
   };
 
   const fetchJoke = async (id: string): Promise<Joke> => {
-    const data: Joke = await fetch(
+    const jokeResponse: Joke = await fetch(
       `https://getxkcd.vercel.app/api/comic?num=${id}`
     ).then((res) => res.json());
 
-    return data;
+    return jokeResponse;
   };
 
   const fillJokeObject = (jokeObj: Joke) => {
@@ -53,7 +53,7 @@
 
     const date: Date = new Date(
       parseInt(year),
-      parseInt(month) + 1,
+      parseInt(month) - 1,
       parseInt(day)
     );
 

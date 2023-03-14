@@ -8,7 +8,7 @@
   <hr class="divideLine" />
   
   <TitleWithImage
-    img={{ alt: "Avatar", src: "src/content/avatar.png" }}
+    img={{ alt: "Avatar", src: "src/static/avatar.png" }}
     title={"I also like jokes, lol kek<br />Check it out below"}
   />
 

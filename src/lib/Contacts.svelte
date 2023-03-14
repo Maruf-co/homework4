@@ -13,7 +13,7 @@
       }}
       img={{
         alt: "mail",
-        src: "src/content/contactIcons/mail.svg",
+        src: "src/static/contactIcons/mail.svg",
       }}
     />
 
@@ -24,7 +24,7 @@
       }}
       img={{
         alt: "itch-io",
-        src: "src/content/contactIcons/itchIo.svg",
+        src: "src/static/contactIcons/itchIo.svg",
       }}
     />
     <ContactItem
@@ -34,7 +34,7 @@
       }}
       img={{
         alt: "telegram",
-        src: "src/content/contactIcons/telegram.svg",
+        src: "src/static/contactIcons/telegram.svg",
       }}
     />
 
@@ -45,7 +45,7 @@
       }}
       img={{
         alt: "github",
-        src: "src/content/contactIcons/github.svg",
+        src: "src/static/contactIcons/github.svg",
       }}
     />
     <ContactItem
@@ -55,7 +55,7 @@
       }}
       img={{
         alt: "twitter",
-        src: "src/content/contactIcons/twitter.svg",
+        src: "src/static/contactIcons/twitter.svg",
       }}
     />
   </ul>

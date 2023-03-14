@@ -11,7 +11,7 @@
       video={{
         width: "352",
         height: "334",
-        src: "src/content/projects/hookYou.mp4",
+        src: "src/static/projects/hookYou.mp4",
       }}
     />
     <ProjectItem
@@ -20,7 +20,7 @@
       video={{
         width: "320",
         height: "172",
-        src: "src/content/projects/mouse.mp4",
+        src: "src/static/projects/mouse.mp4",
       }}
     />
     <ProjectItem
@@ -29,7 +29,7 @@
       video={{
         width: "362",
         height: "300",
-        src: "src/content/projects/pingPong.mp4",
+        src: "src/static/projects/pingPong.mp4",
       }}
     />
     <ProjectItem
@@ -38,7 +38,7 @@
       video={{
         width: "198",
         height: "358",
-        src: "src/content/projects/anlaut.mp4",
+        src: "src/static/projects/anlaut.mp4",
       }}
     />
   </ul>
